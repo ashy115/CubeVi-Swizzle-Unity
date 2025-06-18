@@ -1,11 +1,11 @@
 <h4 align="center">
-  <img src="doc/src/512x512.png" alt="openstageAI logo" style="width:70%; ">
+  <img src="doc/src/512x512.png" alt="openstageAI logo" style="width:15%; ">
   
 <h1 align="center">CubeVi-Swizzle-Unity</h1>
 
 </h3>
 
-
+**Read this in other languages: [English](README.md), [中文](README_ZH.md).**
 
 
 
@@ -14,11 +14,10 @@
 [![license](https://img.shields.io/badge/license-GPL-green)](https://github.com/CubeVi/CubeVi-Swizzle-Unity/blob/main/license)
 [![license](https://img.shields.io/badge/license-commercial-red)](https://github.com/CubeVi/CubeVi-Swizzle-Unity/blob/main/license)
 [![Chat](https://img.shields.io/badge/chat-discord-blue)](https://discord.gg/kAucVzbvQM)
-[![Chat](https://img.shields.io/badge/chat-Wechat-yellow)](TODO)
  <!-- this badge is too long, please place it in the last one to make it pretty --> 
 
 <p align="center">
-    👋 Join our <a href="TODO" target="_blank">WeChat</a> and <a href="https://discord.gg/kAucVzbvQM" target="_blank">Discord</a> 
+    👋 Join our  <a href="https://discord.gg/kAucVzbvQM" target="_blank">Discord</a> 
 </p>
 
 ## Project Introduction

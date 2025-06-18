@@ -1,11 +1,11 @@
 <h4 align="center">
-  <img src="doc/src/512x512.png" alt="openstageAI logo" style="width:70%; ">
+  <img src="doc/src/512x512.png" alt="openstageAI logo" style="width:15%; ">
   
 <h1 align="center">CubeVi-Swizzle-Unity</h1>
 
 </h3>
 
-
+**Read this in other languages: [English](README.md), [中文](README_ZH.md).**
 
 
 
