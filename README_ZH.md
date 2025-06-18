@@ -5,7 +5,7 @@
 
 </h3>
 
-**Read this in other languages: [English](README.md), [中文](README_ZH.md).**
+**切换其他语言: [English](README.md), [中文](README_ZH.md).**
 
 
 
@@ -14,11 +14,10 @@
 [![license](https://img.shields.io/badge/license-GPL-green)](https://github.com/CubeVi/CubeVi-Swizzle-Unity/blob/main/license)
 [![license](https://img.shields.io/badge/license-commercial-red)](https://github.com/CubeVi/CubeVi-Swizzle-Unity/blob/main/license)
 [![Chat](https://img.shields.io/badge/chat-discord-blue)](https://discord.gg/kAucVzbvQM)
-[![Chat](https://img.shields.io/badge/chat-Wechat-yellow)](TODO)
  <!-- this badge is too long, please place it in the last one to make it pretty --> 
 
 <p align="center">
-    👋 加入我们的 <a href="TODO" target="_blank">WeChat</a> 和 <a href="https://discord.gg/kAucVzbvQM" target="_blank">Discord</a> 
+    👋 加入我们的 <a href="https://discord.gg/kAucVzbvQM" target="_blank">Discord</a> 
 </p>
 
 ## 项目介绍
